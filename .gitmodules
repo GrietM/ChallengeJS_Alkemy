@@ -1,0 +1,6 @@
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/GrietM/ChallengeJS_Alkemy_FrontEnd
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/GrietM/ChallengeJS_Alkemy_BackEnd
