@@ -109,7 +109,8 @@ Mejoras a implementar:
 	hacía mediante una variable llamada 'decoded' en al que almacenaba el resultado del método verify de 'jsonwebtoken' que indica si el mismo es válido. En caso 
 	de que estuviera expirado hacía un RemoveItem(Token) para eliminar el token del LocalHost y un GoToMain() para dirigir automáticamente a la páfina de login. Sin 
 	embargo estaba manjeando mal algo en la conexión con el backend y decidí borrarlo porque se rompía la aplicación.
-- Warnings de React referidos a la asignación de 'keys' únicas para cada componente hijo...
+- Warnings de React referidos a la asignación de 'keys' únicas para cada componente hijo.
+- No estoy segura que el uso de 'submódulos' en los repositorios de GitHub sea una buena práctica.
 
 ------------------------------------------------------------------------------------------------------
 
