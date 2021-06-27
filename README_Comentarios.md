@@ -1,5 +1,9 @@
 # ChallengeJS_Alkemy --> AccountANT
-Repositorio unificado que incluye como submodulos a los repositorios de FrontEnd y BackEnd desarrollados para el ChallengeJS de Alkemy
+Repositorio unificado que incluye como submodulos a los repositorios de FrontEnd y BackEnd desarrollados para el ChallengeJS de Alkemy.
+
+Para clonar este repositorio se debe ejecutar el siguiente comando:
+
+git clone --recurse-submodules https://github.com/GrietM/ChallengeJS_Alkemy
 
 ----------------------------------------------------------------------------------------------------
 Se desarrolló  una aplicación para administración de presupuesto personal según lo requerido en el enunciado. 
