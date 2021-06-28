@@ -7,3 +7,9 @@ Una vez clonados ambos submódulos, en los directiorios 'ChallengeJS_Alkemy\Fron
 1- npm install  (para instalar node modules)
 
 2- npm start 
+
+En caso de recibir el error "cb() never called" al intentar npm install en el submodulo FrontEnd, me sirvió volver a instalar npm globalmente y volver a intentar:
+
+1- npm install -g npm
+
+2- npm install
